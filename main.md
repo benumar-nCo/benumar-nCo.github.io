@@ -1,3 +1,3 @@
 layout: page
 title: "PAGE-TITLE"
-permalink: /about/contact/
+permalink: https://benumar-nco.github.io/about/contact.html
